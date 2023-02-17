@@ -1,0 +1,19 @@
+{
+  "name": "udemy-playwright-cucumber",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@cucumber/cucumber": "^8.11.1",
+    "chai": "^4.3.7",
+    "cucumber-html-reporter": "^5.5.0",
+    "playwright": "^1.30.0",
+    "prettier": "^2.8.4"
+  }
+}
