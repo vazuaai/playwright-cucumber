@@ -12,11 +12,12 @@ The project also includes global assertions and hooks, making it easier to perfo
 
 ## Cucumber HTML Reporter with Bootstrap
 
-The project features a visually appealing Cucumber HTML Reporter that uses Bootstrap. The reporter presents the results of each test case in an easy-to-read format, making it simple to understand the test results and identify any issues that need to be addressed.
+The project features a visually appealing Cucumber HTML Reporter that uses Bootstrap. The reporter presents the results of each scenario in an easy-to-read format, making it simple to understand the test results and identify any issues that need to be addressed.
 
 # Conclusion
 
 This test automation project provides a comprehensive BDD solution for your application, covering scenarios organized using the Page Object Pattern, global assertions and hooks, and a visually appealing Cucumber HTML Reporter that uses Bootstrap. With these features, you can ensure that your application works as expected and identify any issues quickly and efficiently.
 
-~Step-by-step explanation in Hungarian in Notion:
-https://quiet-lantana-7ee.notion.site/Playwright-Cucumber-8735cbb845b64e5ab3b34ed54f07e130
+
+✨*Step-by-step explanation in Hungarian in Notion:
+https://quiet-lantana-7ee.notion.site/Playwright-Cucumber-8735cbb845b64e5ab3b34ed54f07e130*
