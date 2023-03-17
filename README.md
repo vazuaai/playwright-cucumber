@@ -1,4 +1,4 @@
-🎭Playwright and 🥒Cucumber
+# 🎭Playwright and 🥒Cucumber
 
 This project is a test automation solution that utilizes Behavior Driven Development (BDD) with Cucumber and Playwright. It includes scenarios that are organized using the Page Object Pattern, along with global assertions and hooks. The project also features a visually appealing Cucumber HTML Reporter that uses Bootstrap.
 
