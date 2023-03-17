@@ -2,8 +2,6 @@
 
 This project is a test automation solution that utilizes Behavior Driven Development (BDD) with Cucumber and Playwright. It includes scenarios that are organized using the Page Object Pattern, along with global assertions and hooks. The project also features a visually appealing Cucumber HTML Reporter that uses Bootstrap.
 
-✨ **There is a step by step implementation document:** https://github.com/vazuaai/BDD-cucumber-playwright/blob/master/StepByStep_Implementation_HU.pdf
-
 ### Scenarios with Page Object Patterns
 
 The scenarios in this project are designed using the Page Object Pattern, making them easy to maintain and update. The Page Object Pattern helps to keep the scenarios clean and organized, making it easier to understand and debug.
