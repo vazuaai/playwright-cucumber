@@ -18,6 +18,15 @@ The project features a visually appealing Cucumber HTML Reporter that uses Boots
 
 This test automation project provides a comprehensive BDD solution for your application, covering scenarios organized using the Page Object Pattern, global assertions and hooks, and a visually appealing Cucumber HTML Reporter that uses Bootstrap. With these features, you can ensure that your application works as expected and identify any issues quickly and efficiently.
 
+# Try it 
 
+Run these scripts from the project library (e.g. C:\repos\playwright-cucumber>)
+
+Check the test runs:
+```shell
+{
+  npm run tests
+}
+```
 ✨***Step-by-step explanation in Hungarian in Notion:**
 https://quiet-lantana-7ee.notion.site/Playwright-Cucumber-8735cbb845b64e5ab3b34ed54f07e130*
