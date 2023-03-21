@@ -30,6 +30,7 @@ npm run tests
 ```shell
 npm run report
 ```
+![kép](https://user-images.githubusercontent.com/13703469/226628912-01bc684b-5c2b-4300-9aac-91e0e8808925.png)
 
 ✨***Step-by-step explanation in Hungarian in Notion:**
 https://quiet-lantana-7ee.notion.site/Playwright-Cucumber-8735cbb845b64e5ab3b34ed54f07e130*
