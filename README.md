@@ -20,7 +20,7 @@ This test automation project provides a comprehensive BDD solution for your appl
 
 # 👨‍🔧 Try it yourself
 
-ℹ️ _Run these scripts from the project library (e.g. C:\repos\playwright-cucumber>)_
+ℹ️ _Clone or download the project and run these scripts from the project library (e.g. C:\repos\playwright-cucumber>)_
 
 **Run the tests:** 
 ```shell
